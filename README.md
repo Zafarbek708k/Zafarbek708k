@@ -13,5 +13,6 @@
 🌐 Language Proficiency: English (B2 level)
 📫 To contact me: 
    - Phone: +998 97 625 29 79 
-   - Telegram: @MrKarimov_708k 
+   - Telegram: @MrKarimov_708k
+   - UpWork: https://www.upwork.com/freelancers/~01df53d4c2348ffe6d
    - LinkedIn: https://www.linkedin.com/in/zafarbek-karimov
