@@ -19,7 +19,7 @@
 
 ### Skills
 
-- **State Management:** Bloc, Provider, Riverpod
+- **State Management:** Bloc, Provider, Riverpod, GetX
 - **Architecture:** MVC, MVVM
 - **Additional:** Firebase, Http, Http Client, Dio, Hive, Shared Preferences, Path Provider, Yandex Map, GitHub
 - **Languages:** Uzbek (native), English (B2)
