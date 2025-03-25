@@ -2,7 +2,7 @@
 
 👀 I’m interested in Mobile Application Development
 
-🌱 I’m currently learning Flutter and Dart Programming Language
+🌱 I’m currently working at UIC Group as a Flutter develper
 
 💞️ I’m looking to collaborate on exciting projects in mobile app development and open source contributions.
 
