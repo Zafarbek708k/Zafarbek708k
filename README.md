@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Zafarbek%20Karimov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20(Mobile)%20Developer&descAlignY=58&descSize=18" alt="header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Building+scalable+Flutter+apps+%F0%9F%93%B1;Healthcare+automation+%40+CareTech+LLC+%F0%9F%8F%A5;Apps+serving+1M%2B+active+users+%F0%9F%9A%80;Clean+Architecture+%7C+Bloc+%7C+Riverpod" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Building+scalable+Flutter+apps+%F0%9F%93%B1;CASL+Fit+%26+CASL+Staff+%40+Garant+LLC+%F0%9F%9B%A1%EF%B8%8F;Apps+serving+1M%2B+active+users+%F0%9F%9A%80;Clean+Architecture+%7C+Bloc+%7C+Riverpod" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/zafarbek-karimov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,7 +17,7 @@
 
 I'm passionate about building **scalable, user-friendly, and high-performance** mobile applications with Flutter and Dart.
 
-- 🏥 Currently at **CareTech LLC**, building healthcare automation for clinics and hospitals
+- 🛡️ Currently at **Garant LLC**, building the **CASL Fit** and **CASL Staff** apps
 - 🚀 Shipped features in apps serving **1M+ active users**
 - 🎓 Studying Computer Software Engineering at **PDP University**
 - 🌍 Uzbek (native) · English (B2)
@@ -28,13 +28,24 @@ I'm passionate about building **scalable, user-friendly, and high-performance** 
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🛡️ Garant LLC · Tashkent
+**Flutter Developer** · *Oct 2025 – Present*
+
+- Developing the **CASL Fit** and **CASL Staff** mobile applications
+- Built the **CASL Staff** app with BLoC, including the **Invitations Report** module: branch-level invitation tracking, animated list views, and detailed drill-down screens for day-to-day branch operations
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏥 CareTech LLC · Tashkent
-**Flutter Developer** · *Jun 2025 – Present*
+**Flutter Developer** · *Jun 2025 – Sep 2025*
 
-- Developing the **[Medion Clinic](https://medion.uz)** automation system to digitize medical processes
-- Collaborating with cross-functional teams on efficient, maintainable mobile apps
+- Developed the **[Medion Clinic](https://medion.uz)** automation system to digitize medical processes
+- Collaborated with cross-functional teams on efficient, maintainable mobile apps
 
 </td>
 <td width="50%" valign="top">
@@ -69,6 +80,8 @@ Large-scale apps serving **1M+ active users**:
 
 | Project | Description |
 |---|---|
+| 📱 **CASL Fit** | Mobile app by Garant LLC |
+| 🛡️ **CASL Staff** | Staff app for monitoring and managing branch operations |
 | 🏥 [**Medion Clinic Automation**](https://medion.uz) | Mobile healthcare automation for clinics and hospitals |
 | 🚘 **Avto 24** | Vehicle management, fines & payments |
 | 🏘 **Mahallam** | Community services platform (23+ MFY services) |
