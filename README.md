@@ -17,7 +17,7 @@
 
 I'm passionate about building **scalable, user-friendly, and high-performance** mobile applications with Flutter and Dart.
 
-- 🛡️ Currently at **Garant LLC**, building the **CASL Fit** and **CASL Staff** apps
+- 🛡️ Currently at **Garant LLC**, building the **CASL Fit** and **CASL Staff** apps for one of Uzbekistan's largest gym chains
 - 🛴 Also building the **Oddiy Ecosystem** apps and **Sarbon** logistics apps at **IT Genius**
 - 📱 **12+ apps** live on Play Store & App Store
 - 🚀 Shipped features in apps serving **1M+ active users**
@@ -31,8 +31,7 @@ I'm passionate about building **scalable, user-friendly, and high-performance** 
 ### 🛡️ Garant LLC · Software Engineer
 *Oct 2025 – Present · Full-time · Tashkent, Uzbekistan*
 
-- Developing the **CASL Fit** and **CASL Staff** mobile applications
-- Built the **CASL Staff** app with BLoC, including the **Invitations Report** module: branch-level invitation tracking, animated list views, and detailed drill-down screens for day-to-day branch operations
+- Developing the **CASL Fit** and **CASL Staff** mobile applications for **CASL Fit**, one of the largest gym chains in Uzbekistan
 
 `Flutter` `Dart` `Bloc` `Equatable` `Dio` `Firebase` `REST API` `Secure Storage` `Localization`
 
@@ -79,8 +78,8 @@ Large-scale apps serving **1M+ active users** across Uzbekistan:
 
 | App | Company | Domain | Platforms |
 |---|---|---|---|
-| 🛡️ **CASL Staff** | Garant LLC | Branch operations for staff | – |
-| 📱 **CASL Fit** | Garant LLC | – | – |
+| 🛡️ **CASL Staff** | Garant LLC | Fitness / gym staff | – |
+| 🏋️ **CASL Fit** | Garant LLC | Fitness / gym | – |
 | 🛴 **Oddiy** | Oddiy Ecosystem | Mobility / scooters | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white) |
 | 🧭 **Oddiy Hub** | Oddiy Ecosystem | Mobility operations | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white) |
 | 📊 **Oddiy CEO** | Oddiy Ecosystem | Business management | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) |
