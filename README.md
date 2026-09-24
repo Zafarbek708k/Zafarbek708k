@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Zafarbek%20Karimov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20(Mobile)%20Developer&descAlignY=58&descSize=18" alt="header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Building+scalable+Flutter+apps+%F0%9F%93%B1;CASL+Fit+%26+CASL+Staff+%40+Garant+LLC+%F0%9F%9B%A1%EF%B8%8F;Apps+serving+1M%2B+active+users+%F0%9F%9A%80;Clean+Architecture+%7C+Bloc+%7C+Riverpod" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=13B9FD&center=true&vCenter=true&width=640&lines=Building+scalable+Flutter+apps+%F0%9F%93%B1;CASL+Fit+%26+CASL+Staff+%40+Garant+LLC+%F0%9F%9B%A1%EF%B8%8F;Oddiy+Ecosystem+%26+Sarbon+%40+IT+Genius+%F0%9F%9A%9A;12%2B+apps+on+Play+Store+%26+App+Store+%F0%9F%9A%80;Apps+serving+1M%2B+active+users+%F0%9F%8C%8D;Clean+Architecture+%7C+Bloc+%7C+Riverpod" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/zafarbek-karimov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,7 +17,9 @@
 
 I'm passionate about building **scalable, user-friendly, and high-performance** mobile applications with Flutter and Dart.
 
-- 🛡️ Currently at **Garant LLC**, building the **CASL Fit** and **CASL Staff** apps
+- 🛡️ Currently at **Garant LLC**, building the **CASL Fit** and **CASL Staff** apps for one of Uzbekistan's largest gym chains
+- 🛴 Also building the **Oddiy Ecosystem** apps and **Sarbon** logistics apps at **IT Genius**
+- 📱 **12+ apps** live on Play Store & App Store
 - 🚀 Shipped features in apps serving **1M+ active users**
 - 🎓 Studying Computer Software Engineering at **PDP University**
 - 🌍 Uzbek (native) · English (B2)
@@ -26,66 +28,68 @@ I'm passionate about building **scalable, user-friendly, and high-performance** 
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td colspan="2" valign="top">
+### 🛡️ Garant LLC · Software Engineer
+*Oct 2025 – Present · Full-time · Tashkent, Uzbekistan*
 
-### 🛡️ Garant LLC · Tashkent
-**Flutter Developer** · *Oct 2025 – Present*
+- Developing the **CASL Fit** and **CASL Staff** mobile applications for **CASL Fit**, one of the largest gym chains in Uzbekistan
 
-- Developing the **CASL Fit** and **CASL Staff** mobile applications
-- Built the **CASL Staff** app with BLoC, including the **Invitations Report** module: branch-level invitation tracking, animated list views, and detailed drill-down screens for day-to-day branch operations
+`Flutter` `Dart` `Bloc` `Equatable` `Dio` `Firebase` `REST API` `Secure Storage` `Localization`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🛴 Oddiy Ecosystem · Software Engineer
+*Oct 2025 – Present · Full-time · Tashkent, Uzbekistan*
 
-### 🏥 CareTech LLC · Tashkent
-**Flutter Developer** · *Jun 2025 – Sep 2025*
+- Developing and maintaining multiple cross-platform apps across the **Oddiy Ecosystem** (Oddiy Scooter, Oddiy Hub, and related client apps)
+- Automating and digitizing core business processes for drivers, riders, and internal operations
+- Apps: **Oddiy** (Android, iOS), **Oddiy Hub** (Android, iOS), **Oddiy CEO** (Android)
 
-- Developed the **[Medion Clinic](https://medion.uz)** automation system to digitize medical processes
-- Collaborated with cross-functional teams on efficient, maintainable mobile apps
+### 🚚 IT Genius · Software Engineer
+*Sep 2025 – Present · Full-time · Tashkent, Uzbekistan*
 
-</td>
-<td width="50%" valign="top">
+- Developing logistics automation systems for **Absolute Logistics**
+- Working on **Sarbon** and **Sarbon Pro**, improving delivery workflows, driver operations, and real-time monitoring through mobile solutions
 
-### 🏢 UIC Group · Tashkent
-**Flutter Developer** · *Dec 2024 – Jun 2025*
+`Flutter` `Dart` `Bloc` `Equatable` `Dio` `Firebase` `REST API` `Secure Storage` `Localization` `Deep Linking`
 
-Large-scale apps serving **1M+ active users**:
+### 🏥 CareTech LLC · Software Engineer
+*Jun 2025 – Sep 2025 · Full-time · Tashkent, Uzbekistan*
+
+- Built mobile apps that automate and digitize medical processes for clinics and hospitals as part of the **[Medion Clinic](https://medion.uz)** automation system
+
+`Flutter` `Dart` `Bloc` `Equatable` `Json Serializable` `Dio` `Firebase` `REST API` `GraphQL` `Secure Storage` `Localization`
+
+### 🏢 UIC Group · Software Engineer
+*Dec 2024 – Jun 2025 · Full-time · Tashkent, Uzbekistan*
+
+Large-scale apps serving **1M+ active users** across Uzbekistan:
 - 🚘 **Avto 24**: vehicle fines, technical status & payments
 - 🏘 **Mahallam**: 23+ MFY community services
 - 💡 **HGT**: utility bill management & payments
 - 💸 **Paylov**: secure peer-to-peer money transfers
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### ⚙️ DSD Group
-**Flutter Developer** · *Sep 2024 – Dec 2024*
+### ⚙️ DSD Group · Flutter Developer
+*Sep 2024 – Dec 2024*
 
 - Improved app performance by optimizing API requests
 - Integrated **real-time data** with WebSockets + REST APIs
 
-</td>
-</tr>
-</table>
-
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Apps on Play Store & App Store
 
-| Project | Description |
-|---|---|
-| 📱 **CASL Fit** | Mobile app by Garant LLC |
-| 🛡️ **CASL Staff** | Staff app for monitoring and managing branch operations |
-| 🏥 [**Medion Clinic Automation**](https://medion.uz) | Mobile healthcare automation for clinics and hospitals |
-| 🚘 **Avto 24** | Vehicle management, fines & payments |
-| 🏘 **Mahallam** | Community services platform (23+ MFY services) |
-| 💸 **Paylov** | Secure peer-to-peer money transfers |
+| App | Company | Domain | Platforms |
+|---|---|---|---|
+| 🛡️ **CASL Staff** | Garant LLC | Fitness / gym staff | – |
+| 🏋️ **CASL Fit** | Garant LLC | Fitness / gym | – |
+| 🛴 **Oddiy** | Oddiy Ecosystem | Mobility / scooters | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white) |
+| 🧭 **Oddiy Hub** | Oddiy Ecosystem | Mobility operations | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white) |
+| 📊 **Oddiy CEO** | Oddiy Ecosystem | Business management | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) |
+| 🚚 **Sarbon** | IT Genius | Logistics | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white) |
+| 🚛 **Sarbon Pro** | IT Genius | Logistics | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) |
+| 🏥 [**Medion Clinic**](https://medion.uz) | CareTech LLC | Healthcare | ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white) |
+| 🚘 **Avto 24** | UIC Group | Vehicle fines & payments | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) |
+| 💡 **HGT** | UIC Group | Utility bills & payments | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) |
+| 🏘 **Mahallam** | UIC Group | Community services | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) |
+| 💸 **Paylov** | UIC Group | Fintech / P2P transfers | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) |
 
 ---
 
